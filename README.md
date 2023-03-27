@@ -1,6 +1,6 @@
 # birthday_master_privacy_policy
 
-**Privacy Policy**
+***Privacy Policy***
 
 skybird infosoft built the Birthday master app as an Ad Supported app. This SERVICE is provided by skybird infosoft at no cost and is intended for use as is.
 
