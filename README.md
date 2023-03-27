@@ -1,0 +1,1 @@
+# birthday_master_privacy_policy
